@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Consulta Sepultados Uberaba</string>
+    <string name="site_url">https://app3.codiub.com.br/consulta_sepultados/#/sepultados</string>
+    <string name="no_connection_title">Sem conexão com a internet</string>
+    <string name="no_connection_message">Verifique sua internet e tente novamente.</string>
+    <string name="retry">Tentar novamente</string>
+</resources>
